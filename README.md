@@ -1,7 +1,4 @@
 # 👟 Online Shoe Store Database Application
-
-> **Project Owner:** LaShelle Porter
-
 ---
 
 # 🛒 Project Overview
@@ -128,12 +125,6 @@ This project successfully delivers:
 
 ---
 
-# 🙌 Connect with Me!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/lashelleporter)  |  📧 [shellep@umich.edu](mailto:shellep@umich.edu)  |  🌎 Rockford, MI
-
----
-
 # ✨ Tech Stack
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -149,5 +140,10 @@ This project successfully delivers:
 - Screenshots — (ERD, Schema, Sample Queries) located in .docx file
 
 ---
+# 🙌 Connect with Me!
 
-> 🚀 **Project Completed by LaShelle Porter** — December 2023
+🔗 [LinkedIn](https://www.linkedin.com/in/lashelleporter)  |  📧 [shellep@umich.edu](mailto:shellep@umich.edu)  |  🌎 Rockford, MI
+
+---
+
+🚀 **Project Completed by LaShelle Porter** — December 2023
