@@ -54,7 +54,7 @@ This project designs and implements a **robust database application** for an **o
 - Orders ➡️ Employees (Many-to-1)
 - Orders ➡️ Shipping (Many-to-1)
 
-![image](https://github.com/user-attachments/assets/3be3f8e3-2480-4618-8ee1-104880831e8a)
+
 
 ---
 
