@@ -5,11 +5,11 @@
 
 This project designs and implements a **robust database application** for an **online shoe store**, managing:
 
-- 👥 Customer Management
-- 📦 Inventory Tracking
-- 🧾 Order Processing
-- 🧑‍💼 Employee Management
-- 🚚 Shipping Logistics
+👥 Customer Management
+📦 Inventory Tracking
+🧾 Order Processing
+🧑‍💼 Employee Management
+🚚 Shipping Logistics
 
 ---
 
