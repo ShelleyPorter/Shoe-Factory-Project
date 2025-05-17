@@ -68,9 +68,9 @@ This project designs and implements a **robust database application** for an **o
 | **Shipping** | ShippingID (PK), ShipDate, DeliveryStatus |
 | **Orders** | OrderID (PK), CustomerID (FK), EmployeeID (FK), ShippingID (FK), OrderDate |
 
-- ✅ Reduces redundancy
-- ✅ Ensures referential integrity
-- ✅ Supports scalable business operations
+✅ Reduces redundancy
+✅ Ensures referential integrity
+✅ Supports scalable business operations
 
 ---
 
@@ -106,11 +106,11 @@ VALUES (1, 'Marylee', 'Brands', 'mbrands0@taobao.com', '410-982-2326');
 
 Developed 12 SQL Queries to test:
 
-- 🔹 Single Table Queries
-- 🔹 Multi-Table Joins
-- 🔹 Aggregate Functions (SUM, AVG)
-- 🔹 Subqueries
-- 🔹 `ORDER BY`, `HAVING` clauses
+🔹 Single Table Queries
+🔹 Multi-Table Joins
+🔹 Aggregate Functions (SUM, AVG)
+🔹 Subqueries
+🔹 `ORDER BY`, `HAVING` clauses
 ---
 
 # 📋 Conclusion
